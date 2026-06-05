@@ -14,7 +14,7 @@ argument-hint: "Branch, commit, tag, or file/directory path to review"
 
 Two-axis parallel security review: **OWASP Top 10** (universal vulnerability classes) and **Project Standards** (repo-specific security rules). Both axes run as independent sub-agents so neither pollutes the other's context.
 
-The issue tracker and project docs should be available — run `/setup-matt-pocock-skills` if `docs/agents/issue-tracker.md` is missing.
+The issue tracker and project docs should be available — run `/setup-jaswdr-skills` if `docs/agents/issue-tracker.md` is missing.
 
 ## Process
 
