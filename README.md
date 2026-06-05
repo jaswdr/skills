@@ -159,6 +159,7 @@ Skills I use daily for code work.
 - **[kasa-stacked-mr](./skills/engineering/kasa-stacked-mr/SKILL.md)** — Manage a stack of GitLab MRs using the kasa CLI — one MR per commit, chained and kept in sync.
 - **[review](./skills/engineering/review/SKILL.md)** — Review changes since a fixed point along two parallel axes: Standards (coding conventions) and Spec (does the diff match the originating issue/PRD?).
 - **[spike](./skills/engineering/spike/SKILL.md)** — Scope-boxed investigation to validate a technical hypothesis before committing to an approach. Interviews, proposes scope, executes in small validated steps, concludes with a verdict.
+- **[security-review](./skills/engineering/security-review/SKILL.md)** — Security review via two parallel sub-agents: OWASP Top 10 and project-specific standards. Findings grouped by severity with a suggested fix per finding.
 
 ### Productivity
 
