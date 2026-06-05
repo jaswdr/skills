@@ -157,6 +157,7 @@ Skills I use daily for code work.
 - **[zoom-out](./skills/engineering/zoom-out/SKILL.md)** — Tell the agent to zoom out and give broader context or a higher-level perspective on an unfamiliar section of code.
 - **[prototype](./skills/engineering/prototype/SKILL.md)** — Build a throwaway prototype to flesh out a design — either a runnable terminal app for state/business-logic questions, or several radically different UI variations toggleable from one route.
 - **[kasa-stacked-mr](./skills/engineering/kasa-stacked-mr/SKILL.md)** — Manage a stack of GitLab MRs using the kasa CLI — one MR per commit, chained and kept in sync.
+- **[review](./skills/engineering/review/SKILL.md)** — Review changes since a fixed point along two parallel axes: Standards (coding conventions) and Spec (does the diff match the originating issue/PRD?).
 
 ### Productivity
 
