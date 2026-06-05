@@ -168,6 +168,7 @@ General workflow tools, not code-specific.
 - **[handoff](./skills/productivity/handoff/SKILL.md)** — Compact the current conversation into a handoff document so another agent can continue the work.
 - **[write-a-skill](./skills/productivity/write-a-skill/SKILL.md)** — Create new skills with proper structure, progressive disclosure, and bundled resources.
 - **[find-skills](./skills/productivity/find-skills/SKILL.md)** — Discover and install agent skills from the skills.sh ecosystem when you need a capability that might already exist.
+- **[teach](./skills/productivity/teach/SKILL.md)** — Teach the user a skill or concept across multiple sessions, tracking mission, glossary, resources, and learning records in the workspace.
 
 ### Misc
 

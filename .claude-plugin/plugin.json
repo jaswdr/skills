@@ -17,6 +17,7 @@
     "./skills/productivity/grill-me",
     "./skills/productivity/handoff",
     "./skills/productivity/write-a-skill",
-    "./skills/productivity/find-skills"
+    "./skills/productivity/find-skills",
+    "./skills/productivity/teach"
   ]
 }
