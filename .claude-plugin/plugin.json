@@ -1,7 +1,8 @@
 {
   "name": "mattpocock-skills",
   "skills": [
-    "./skills/engineering/diagnose",
+    "./skills/engineering/ask-matt",
+    "./skills/engineering/diagnosing-bugs",
     "./skills/engineering/grill-with-docs",
     "./skills/engineering/triage",
     "./skills/engineering/improve-codebase-architecture",
@@ -9,7 +10,6 @@
     "./skills/engineering/tdd",
     "./skills/engineering/to-issues",
     "./skills/engineering/to-prd",
-    "./skills/engineering/zoom-out",
     "./skills/engineering/prototype",
     "./skills/engineering/kasa-stacked-mr",
     "./skills/engineering/review",
@@ -17,6 +17,7 @@
     "./skills/engineering/security-review",
     "./skills/productivity/caveman",
     "./skills/productivity/grill-me",
+    "./skills/productivity/grilling",
     "./skills/productivity/handoff",
     "./skills/productivity/write-a-skill",
     "./skills/productivity/find-skills",
